@@ -1,1 +1,4 @@
-# READ_ME
+# Greetings!✨
+## Ritika Malik here
+
+
