@@ -1,4 +1,2 @@
 # Greetings!✨
-## Ritika Malik here
-
-
+## Myself Ritika Malik
