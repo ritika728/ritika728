@@ -1,6 +1,6 @@
 # Hi there, I'm Ritika Malik 👋
 * 💻 Upcoming Software Engineering Intern at JP Morgan Chase & Co.
-* 🏆 Winner of JPMC Code For Good Hackathon'22
+* 🏆 Winner of JP Morgan's Code For Good Hackathon'22
 * ⌨ Front-end Web Developer with keen interest in Full Stack Development
 * 💫 Like exploring new technologies
 * ❤  Love networking!
