@@ -5,8 +5,6 @@
 * 💫 Like exploring new technologies
 * ❤  Love networking!
 
-<br>
-
 ## Connect With Me 🌟
 <div>
 <a  href="https://www.linkedin.com/in/ritika-malik-must/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
