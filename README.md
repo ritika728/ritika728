@@ -24,5 +24,4 @@
 <br>
 
 
-### Check out my [Portfolio](https://main--fluffy-cupcake-f1a396.netlify.app/) 🤩
 
