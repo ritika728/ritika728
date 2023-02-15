@@ -2,7 +2,7 @@
 * 💻 Upcoming Software Engineering Intern at JP Morgan Chase & Co.
 * 🏆 Winner of JP Morgan's Code For Good Hackathon'22
 * 📝 Currently Learning JavaScript and Tailwind CSS
-* ⌨ Front-end Web Developer with keen interest in Full Stack Development
+* ⌨ An aspiring Front End developer, inclined towards Open Source
 * 💫 Like exploring new technologies
 * ❤  Love networking!
 
