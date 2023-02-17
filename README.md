@@ -17,10 +17,10 @@
 
 ## Github Statistics
 <div align="center" >
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=ritika728&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika728&layout=compact">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=ritika728&show_icons=true&theme=algolia"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika728&layout=compact&theme=algolia">
 </div> 
 <div align="center">
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika728&)"></div>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika728&show_icons=true&theme=algolia"></div>
 <br>
 
 
