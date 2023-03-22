@@ -1,9 +1,10 @@
 # Hi there, I'm Ritika Malik 👋
 * 💻 Upcoming Software Engineering Intern at JP Morgan Chase & Co.
 * 🏆 Winner of JP Morgan's Code For Good Hackathon'22
+* 🎗 Flipkart Girls Wanna Code 4.0 Mentee
+* 🌟 Among the top 5 contributors in JWOC, a month-long open source contributing event.
 * 📝 Currently Learning JavaScript and Tailwind CSS
 * ⌨ An aspiring Front End developer, inclined towards Open Source
-* 💫 Like exploring new technologies
 * ❤  Love networking!
 
 ## Connect With Me 🌟
