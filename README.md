@@ -13,7 +13,7 @@
 * 5th position in JWOC'23 (1700+ participants) along with being the 2nd most favourite mentee
 * 1st position in Coding Competition of CSI Technical Event organized by CSI MUST
 * 3rd position in HackmaFest, an International Hackathon
-* 3rd position in Mindwrap Code-a-thon organized by IEEE CS SCT SB.
+* 3rd position in Mindwrap Code-a-thon organized by IEEE CS SCT SB
   
 ## Connect With Me 🌟
 <div>
