@@ -27,7 +27,8 @@
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ritika728&show_icons=true&theme=algolia"> <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika728&layout=compact&theme=algolia">
 </div> 
 
-## Want to know more ? Check out my [Portfolio](https://fluffy-cupcake-f1a396.netlify.app)!
+## Recently started writing blogs, do give them a read! (& clap xD) 
+https://medium.com/@ritikamalik100102
 
 
 
