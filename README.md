@@ -1,6 +1,6 @@
 # Hi there, I'm Ritika Malik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-* Upcoming SDE at JP Morgan Chase & Co.
-* Chairperson - IEEE MUST
+* SDE-1 at JP Morgan Chase & Co.
+* Mentor - IEEE MUST
 * B.Tech CSE'24
 
 ## Achievements
